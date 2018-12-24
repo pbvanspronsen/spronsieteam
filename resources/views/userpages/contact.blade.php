@@ -2,4 +2,5 @@
 
 @section('content')
     Contact
+    yes
 @endsection
