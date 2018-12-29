@@ -290,7 +290,7 @@
                 <div class="row">
                     <div class="col-xs-12">
                         <p>999 Games bestaat al meer dan 25 jaar, dus er is inmiddels een boel spelgeschiedenis geschreven. Bekijk de ontwikkeling van ons bedrijf aan de hand van de onderstaande, chronologische tijdlijn.</p>
-                        <img class="centered-img" alt="Bekijk de geschiedenis van 999 Games" src="https://www.999games.nl/media/wysiwyg/Over-ons/logo-met-karakters.png">
+                        <img class="centered-img img-fluid" alt="Bekijk de geschiedenis van 999 Games" src="https://www.999games.nl/media/wysiwyg/Over-ons/logo-met-karakters.png">
                     </div>
                 </div>
                 <section id="timeline">
@@ -369,7 +369,7 @@
                     <div class="col-xs-12">
                         <h2 class="last-item-ttl">Het heden</h2>
                         <p class="centered-txt">Michael Bruinsma staat nog steeds aan het roer van een geprofessionaliseerde organisatie met circa 35 medewerkers, die in gespecialiseerde afdelingen zorgen voor een klinkend aanbod van bordspellen, kaartspellen en puzzels. 999 Games profileert zich tegenwoordig als een one-step point of sale met een professionele webshop voor het eigen bedrijf en deelnemende klanten.</p>
-                        <img class="centered-img" alt="Het team van 999 Games" src="https://www.999games.nl/media/wysiwyg/Over-ons/999games-familie.png">
+                        <img class="centered-img img-fluid" alt="Het team van 999 Games" src="https://www.999games.nl/media/wysiwyg/Over-ons/999games-familie.png">
                     </div>
                 </div></div></div></main>
 @endsection

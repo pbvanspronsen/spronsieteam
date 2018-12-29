@@ -56,7 +56,7 @@
 <!-- Begin page content -->
 <main class="flex-shrink-0" role="main">
     <div class="container">
-        <h1 class="mt-5">@yield('content')</h1>
+        <h1 class="mt-5 text-center">@yield('content')</h1>
         <p class="lead"> </p>
         @yield('tekst')
         {{--<p>Back to <a href="/docs/4.2/examples/sticky-footer/">the default sticky footer</a> minus the navbar.</p>--}}
